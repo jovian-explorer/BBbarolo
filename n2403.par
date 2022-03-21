@@ -1,0 +1,20 @@
+FITSFILE    ngc2403.fits
+THREADS     4
+3DFIT       true
+NRADII      41
+RADSEP      30     
+VSYS        132.8
+XPOS        77         
+YPOS        77     
+VROT        120  
+VDISP       8   
+INC         60
+PA          123.7
+Z0          10
+FREE        VROT VDISP PA
+LTYPE       2
+FTYPE       2
+DISTANCE    3.2
+MASK        SEARCH
+WFUNC       2
+TWOSTAGE    true
