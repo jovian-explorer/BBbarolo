@@ -1,4 +1,4 @@
-#RAD(Kpc),RAD(arcs),VROT(km/s),DISP(km/s),INC(deg),P.A.(deg),Z0(pc),Z0(arcs),SIG(E20),XPOS(pix),YPOS(pix),VSYS(km/s),VRAD(km/s)
+#RAD_PIX,RAD_arcs,VROT_km/s,DISP_km/s,INC_deg,PA_deg_,Z0_pc,Z0_arcs,SIG_E20,X_POS_pix,Y_POS_pix,V_SYS_km/s,V_RAD_km/s
 0.233,15,45.171,23.418,60,114.59,155.144,10,1,77,77,132.8,0
 0.698,45,61.615,22.368,60,133.569,155.144,10,1,77,77,132.8,0
 1.164,75,76.511,17.979,60,124.363,155.144,10,1,77,77,132.8,0
