@@ -1,5 +1,5 @@
 RADIUS,SUM,MEAN,MEDIAN,STDDEV,MAD,NPIX,ERR_SD,  SURFDENS_FO,SURFDENS,MSURFDENS,MSURFDENS2
-arcsec,unit,unit,unit,unit,unit,#,unit/arcs2  , unit/arcs2,unit/arcs2,Msun/pc2,Msun/pc2
+arcsec,unit,unit,unit,unit,unit,unit/arcs2  , unit/arcs2,unit/arcs2,Msun/pc2,Msun/pc2
 15,1.77E+00,3.54E-01,3.51E-01,5.42E-03,2.13E-03,5,2.119e-05 ,   6.913e-04,1.38E-03,7.01E+00,6.89E+00
 45,5.73E+00,3.58E-01,3.57E-01,1.08E-02,7.44E-03,16,4.203e-05 ,   6.999e-04,1.40E-03,7.10E+00,6.97E+00
 75,1.00E+01,3.58E-01,3.64E-01,2.21E-02,1.43E-02,28,8.624e-05  ,  6.994e-04,1.40E-03,7.09E+00,6.97E+00
